@@ -1,3 +1,1 @@
 - 👋 Hello everyone!
-- I'm learning Ruby and RoR
-- Me [resume](https://ilyakokorev.github.io/mycv/)
